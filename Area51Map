@@ -1,1 +1,1 @@
-("CUSTOM_ROOM_ID":"https://raw.githubusercontent.com/iwantmoneypls98/PSCP-maps/refs/heads/main/area51room","ZoneInfo":("LCZ":("hasblackout":Y,"hasdecontamination":Y),"HCZ-EZ":("hasblackout":Y)),"Tiles":("LCZ":(),"HCZ-EZ":("12_13":("CUSTOM_INF_Area51",0))),"Zones":("LCZ","HCZ-EZ"))
+("CUSTOM_ROOM_ID":"https://raw.githubusercontent.com/iwantmoneypls98/PSCP-maps/refs/heads/main/area51room","ZoneInfo":("LCZ":("hasblackout":Y,"hasdecontamination":Y),"HCZ-EZ":("hasblackout":Y)),"Tiles":("LCZ":(),"HCZ-EZ":("13_12":("CUSTOM_INF_Area51",0))),"Zones":("LCZ","HCZ-EZ"))
